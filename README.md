@@ -16,8 +16,13 @@ ASP.NET Core utilities to prevent it.
 3. The Microsoft.AspNetCore.Identity defines the following domain classes. Please explain each:
 
 +IdentityRole
+
 +IdentityUserRole
+
 +IdentityUserClaim
+
 +IdentityUserLogin
+
 +IdentityUserToken
+
 +IdentityRoleClaim
